@@ -4,8 +4,8 @@ In this project, I aimed to enhance machine learning predictions on a dataset by
 
 ## File organization
 There are four dataset folders, each folder containing two  approaches for handling missing values within the dataset:
--  The association rule method
--  Traditional methods, such as using the mean for numerical attributes and the most common value for categorical attributes
+-  The association rule method.
+-  Traditional methods, such as using the mean for numerical attributes and the most common value for categorical attributes.
 
 Furthermore, there are testing files in every folder that allow for the comparison of the model performance·
 
